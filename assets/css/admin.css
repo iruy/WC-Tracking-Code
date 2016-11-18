@@ -1,0 +1,27 @@
+.order_actions .wctc-tracking:after {
+    content: "\f546";
+}
+.order_actions .wctc-tracking:after {
+    font-family: Dashicons;
+    font-variant: normal;
+    font-weight: 400;
+    height: 100%;
+    left: 0;
+    line-height: 1.85;
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    top: 0;
+    width: 100%;
+}
+
+.order_actions .wctc-tracking {
+    display: block;
+    height: 2em !important;
+    padding: 0 !important;
+    position: relative;
+    text-indent: -9999px;
+    width: 2em;
+}
